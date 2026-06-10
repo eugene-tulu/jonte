@@ -1,0 +1,24 @@
+{
+  "name": "jonte",
+  "version": "1.0.0",
+  "description": "Yhomaniax Laundry Services - From Messy to Fresh",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugene-tulu/jonte.git"
+  },
+  "keywords": ["laundry", "vercel-analytics"],
+  "author": "Eugene Tulu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugene-tulu/jonte/issues"
+  },
+  "homepage": "https://github.com/eugene-tulu/jonte#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
